@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/virtual-school-cheat/static/css/main.66ab2bd0.chunk.css",
+    "main.js": "/virtual-school-cheat/static/js/main.5050ef0f.chunk.js",
+    "main.js.map": "/virtual-school-cheat/static/js/main.5050ef0f.chunk.js.map",
+    "runtime-main.js": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js",
+    "runtime-main.js.map": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js.map",
+    "static/js/2.eaa17978.chunk.js": "/virtual-school-cheat/static/js/2.eaa17978.chunk.js",
+    "static/js/2.eaa17978.chunk.js.map": "/virtual-school-cheat/static/js/2.eaa17978.chunk.js.map",
+    "index.html": "/virtual-school-cheat/index.html",
+    "static/css/main.66ab2bd0.chunk.css.map": "/virtual-school-cheat/static/css/main.66ab2bd0.chunk.css.map",
+    "static/js/2.eaa17978.chunk.js.LICENSE.txt": "/virtual-school-cheat/static/js/2.eaa17978.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ccb1b83.js",
+    "static/js/2.eaa17978.chunk.js",
+    "static/css/main.66ab2bd0.chunk.css",
+    "static/js/main.5050ef0f.chunk.js"
+  ]
+}
