@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/virtual-school-cheat/static/css/main.29b5953a.chunk.css",
-    "main.js": "/virtual-school-cheat/static/js/main.d4b61628.chunk.js",
-    "main.js.map": "/virtual-school-cheat/static/js/main.d4b61628.chunk.js.map",
+    "main.js": "/virtual-school-cheat/static/js/main.a7f98302.chunk.js",
+    "main.js.map": "/virtual-school-cheat/static/js/main.a7f98302.chunk.js.map",
     "runtime-main.js": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js",
     "runtime-main.js.map": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js.map",
     "static/js/2.1052f0f6.chunk.js": "/virtual-school-cheat/static/js/2.1052f0f6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0ccb1b83.js",
     "static/js/2.1052f0f6.chunk.js",
     "static/css/main.29b5953a.chunk.css",
-    "static/js/main.d4b61628.chunk.js"
+    "static/js/main.a7f98302.chunk.js"
   ]
 }
