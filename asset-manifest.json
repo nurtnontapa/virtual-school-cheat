@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/virtual-school-cheat/static/css/main.29b5953a.chunk.css",
-    "main.js": "/virtual-school-cheat/static/js/main.a7f98302.chunk.js",
-    "main.js.map": "/virtual-school-cheat/static/js/main.a7f98302.chunk.js.map",
+    "main.css": "/virtual-school-cheat/static/css/main.390b3512.chunk.css",
+    "main.js": "/virtual-school-cheat/static/js/main.98ac20bf.chunk.js",
+    "main.js.map": "/virtual-school-cheat/static/js/main.98ac20bf.chunk.js.map",
     "runtime-main.js": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js",
     "runtime-main.js.map": "/virtual-school-cheat/static/js/runtime-main.0ccb1b83.js.map",
     "static/js/2.1052f0f6.chunk.js": "/virtual-school-cheat/static/js/2.1052f0f6.chunk.js",
     "static/js/2.1052f0f6.chunk.js.map": "/virtual-school-cheat/static/js/2.1052f0f6.chunk.js.map",
     "index.html": "/virtual-school-cheat/index.html",
-    "static/css/main.29b5953a.chunk.css.map": "/virtual-school-cheat/static/css/main.29b5953a.chunk.css.map",
+    "static/css/main.390b3512.chunk.css.map": "/virtual-school-cheat/static/css/main.390b3512.chunk.css.map",
     "static/js/2.1052f0f6.chunk.js.LICENSE.txt": "/virtual-school-cheat/static/js/2.1052f0f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccb1b83.js",
     "static/js/2.1052f0f6.chunk.js",
-    "static/css/main.29b5953a.chunk.css",
-    "static/js/main.a7f98302.chunk.js"
+    "static/css/main.390b3512.chunk.css",
+    "static/js/main.98ac20bf.chunk.js"
   ]
 }
